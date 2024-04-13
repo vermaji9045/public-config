@@ -5,7 +5,7 @@ cards:
     message: "Welcome to the Public Bank Cards related to local APIs"
     contactDetails:
       name: "Sandeep-Developer"
-      email: "sandeep@public.com"
+      email: "{cipher}31b506f6c10139a1a1379b494e74e364bcf30e252bd9c6c00887c46d9c8c3a39080fdf65af360698bd98f55824b825cb"
     onContactSupport:
      -8410172908
    
