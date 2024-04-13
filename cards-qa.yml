@@ -6,7 +6,7 @@ cards:
   message: "Welcome to Publicank Cards related to QA local APIs "
   contactDetails:
     name: "Sandeep - Developer"
-    email: "sandeep@publicbank.com"
+    email: "{cipher}31b506f6c10139a1a1379b494e74e364bcf30e252bd9c6c00887c46d9c8c3a39080fdf65af360698bd98f55824b825cb"
   onContactSupport:
     - (555) 555-1234
     - (555) 523-1345
